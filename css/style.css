@@ -121,6 +121,9 @@ body{
     line-height: 1.5;
 }
 @media(min-width: 767px){
+    body{
+        overflow: hidden;
+    }
     .mainWrapp{
         height: 100vh;
     }
